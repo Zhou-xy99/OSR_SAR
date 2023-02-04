@@ -1,5 +1,5 @@
 # OSR_SAR
-SAR Target Recognition with Limited Training Samples in Open Set ConditionsSAR Target Recognition with Limited Training Samples in Open Set Conditions.
+SAR Target Recognition with Limited Training Samples in Open Set Conditions.
 ## Link
 https://doi.org/10.3390/s23031668
 ## Abstract
